@@ -61,13 +61,13 @@
         "vite-plugin-webfont-dl": "^3.10.3"
     },
     "bugs": {
-        "url": "https://github.com/roberthgnz/tailwind-gradient-generator/issues"
+        "url": "https://github.com/rxb3rth/tailwind-gradient-generator/issues"
     },
-    "homepage": "https://github.com/roberthgnz/tailwind-gradient-generator#readme",
+    "homepage": "https://github.com/rxb3rth/tailwind-gradient-generator#readme",
     "keywords": [],
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/roberthgnz/tailwind-gradient-generator.git"
+        "url": "git+https://github.com/rxb3rth/tailwind-gradient-generator.git"
     }
 }
