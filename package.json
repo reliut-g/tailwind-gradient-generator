@@ -4,7 +4,7 @@
     "description": "",
     "author": "Roberth González",
     "engines": {
-        "node": ">=16"
+        "node": ">=18"
     },
     "scripts": {
         "dev": "vite",
@@ -23,7 +23,6 @@
         "@radix-ui/react-toast": "^1.2.2",
         "@radix-ui/react-tooltip": "^1.1.4",
         "@reduxjs/toolkit": "^2.4.0",
-        "@reliutg/lsdb": "4.9.1",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
         "html-to-image": "^1.11.11",
@@ -61,13 +60,13 @@
         "vite-plugin-webfont-dl": "^3.10.3"
     },
     "bugs": {
-        "url": "https://github.com/roberthgnz/tailwind-gradient-generator/issues"
+        "url": "https://github.com/rxb3rth/tailwind-gradient-generator/issues"
     },
-    "homepage": "https://github.com/roberthgnz/tailwind-gradient-generator#readme",
+    "homepage": "https://github.com/rxb3rth/tailwind-gradient-generator#readme",
     "keywords": [],
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/roberthgnz/tailwind-gradient-generator.git"
+        "url": "git+https://github.com/rxb3rth/tailwind-gradient-generator.git"
     }
 }

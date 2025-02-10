@@ -74,7 +74,7 @@ export default function App() {
                             </Button>
                             <Button variant="outline" asChild>
                                 <a
-                                    href="https://github.com/roberthgnz/tailwind-gradient-generator/issues/new"
+                                    href="https://github.com/rxb3rth/tailwind-gradient-generator/issues/new"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                 >
@@ -168,7 +168,7 @@ export default function App() {
                         </div>
                         <div className="text-sm text-muted-foreground">
                             Made with ❤️ by{' '}
-                            <a href="https://x.com/roberthgnz" target="_blank">
+                            <a href="https://x.com/rxb3rth" target="_blank">
                                 Roberth González
                             </a>
                         </div>

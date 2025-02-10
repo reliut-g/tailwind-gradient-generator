@@ -78,14 +78,6 @@ export function GradientPreview({ gradient, direction, onDirectionChange, onRand
         })
     }
 
-    const onSave = () => {
-        // Implement save functionality (e.g., to local storage)
-        toast({
-            title: 'Gradient saved!',
-            description: 'The gradient has been saved to your collection.',
-        })
-    }
-
     const onExport = (format: 'png' | 'jpeg' | 'svg') => {
         if (gradientRef.current === null) {
             return
@@ -163,16 +155,6 @@ export function GradientPreview({ gradient, direction, onDirectionChange, onRand
                                 </TooltipTrigger>
                                 <TooltipContent>
                                     <p>Download as image</p>
-                                </TooltipContent>
-                            </Tooltip>
-                            <Tooltip>
-                                <TooltipTrigger asChild>
-                                    <Button variant="outline" size="icon" onClick={onSave}>
-                                        <Save className="size-4" />
-                                    </Button>
-                                </TooltipTrigger>
-                                <TooltipContent>
-                                    <p>Save gradient</p>
                                 </TooltipContent>
                             </Tooltip>
                         </TooltipProvider>

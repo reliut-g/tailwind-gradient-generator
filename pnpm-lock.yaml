@@ -38,9 +38,6 @@ importers:
       '@reduxjs/toolkit':
         specifier: ^2.4.0
         version: 2.4.0(react-redux@9.1.2(@types/react@18.3.14)(react@18.3.1)(redux@5.0.1))(react@18.3.1)
-      '@reliutg/lsdb':
-        specifier: 4.9.1
-        version: 4.9.1
       class-variance-authority:
         specifier: ^0.7.1
         version: 0.7.1
@@ -908,9 +905,6 @@ packages:
         optional: true
       react-redux:
         optional: true
-
-  '@reliutg/lsdb@4.9.1':
-    resolution: {integrity: sha512-HxR9mFqxUzYdLcJ3DRblo5RLihb0ZpTp8SrST6F3g1Os5Fen0o1KjGLCL3OKr0pzgwao5DbzAXU557dqFIvkxg==}
 
   '@rollup/rollup-android-arm-eabi@4.28.0':
     resolution: {integrity: sha512-wLJuPLT6grGZsy34g4N1yRfYeouklTgPhH1gWXCYspenKYD0s3cR99ZevOGw5BexMNywkbV3UkjADisozBmpPQ==}
@@ -3232,8 +3226,6 @@ snapshots:
     optionalDependencies:
       react: 18.3.1
       react-redux: 9.1.2(@types/react@18.3.14)(react@18.3.1)(redux@5.0.1)
-
-  '@reliutg/lsdb@4.9.1': {}
 
   '@rollup/rollup-android-arm-eabi@4.28.0':
     optional: true
